@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI project
 - 🌱 I’m currently learning in SYSU
 - 💞️ I’m looking to collaborate on ai program
-- 📫 How to reach me 2651309292@qq.com
+- 📫 How to reach me zhangy2259@gmail.com
 
 <!---
 Kevin-Zhang-SYSU/Kevin-Zhang-SYSU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
