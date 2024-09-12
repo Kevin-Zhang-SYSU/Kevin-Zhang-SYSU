@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kevin-Zhang-SYSU
 - 👀 I’m interested in AI project
 - 🌱 I’m currently learning in SYSU
-- 💞️ I’m looking to collaborate on ai program
+- 💞️ I’m looking to collaborate on LLM Resource Management / Deep Learning program
 - 📫 How to reach me zhangy2259@gmail.com
 
 <!---
