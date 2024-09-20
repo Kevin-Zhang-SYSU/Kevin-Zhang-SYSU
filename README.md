@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cheung
 - 👀 I’m interested in LLM Resource Management / Deep Learning program project
 - 🌱 I’m currently learning in SYSU
-- 💞️ I’m looking to collaborate on LLM Resource Management / Deep Learning program
+- 💞️ Welcome to visit my blog https://kevin-zhang-sysu.github.io/
 - 📫 How to reach me zhangy2259@gmail.com
 
 <!---
